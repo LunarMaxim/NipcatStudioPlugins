@@ -1,0 +1,5 @@
+Fab/**
+/**/Binaries/**
+/**/Intermediate/**
+*.pdb
+!/**/ThirdParty/**
