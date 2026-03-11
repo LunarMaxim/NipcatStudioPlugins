@@ -1,0 +1,55 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NipcatAbilitySystemExtension",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Nipcat Studio",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "NipcatAbilitySystemExtension",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "NipcatAbilitySystem",
+			"Enabled": true
+		},
+		{
+			"Name": "Wwise",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AuroraDevs_RHS",
+			"Enabled": true
+		},
+		{
+			"Name": "NipcatInventory",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelViewViewModel",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		}
+	]
+}
